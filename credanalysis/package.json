@@ -1,0 +1,19 @@
+{
+  "name": "credanalysis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@aws-sdk/client-sagemaker-runtime": "^3.787.0",
+    "aws-sdk": "^2.1692.0",
+    "natural": "^8.0.1",
+    "string-similarity": "^4.0.4"
+  }
+}
